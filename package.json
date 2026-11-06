@@ -1,0 +1,7 @@
+{
+  "name": "voidline-server",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node voidline-server.js" }
+}
